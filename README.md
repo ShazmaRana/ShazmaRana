@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShazmaRana i'm currently a Software Engeenering student.
+- 👋 Hi, I’m ShazmaRana i'm currently a Software Engeenering student.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on coding competitions.
